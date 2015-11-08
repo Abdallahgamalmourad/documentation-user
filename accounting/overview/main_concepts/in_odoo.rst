@@ -1,5 +1,5 @@
 ==========================
-The Accounting behind Odoo
+The Accounting behind Odooالمحاسبة فى اودوو 
 ==========================
 
 This page summarises the way Odoo deals with typical accounts and
